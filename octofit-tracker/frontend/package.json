@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react19": "1.0.1",
+    "react":"19.2.7",
+    "react19": "^19.2.7",
     "react-dom": "^19.2.6"
   },
   "devDependencies": {
